@@ -5,7 +5,7 @@ import React from 'react';
      let name = props.match.params.name || props.name;
      return(
          <div className="Welcome">
-             Welcome,{name}
+             Welcome Jane,{name}
          </div>
      )
 
